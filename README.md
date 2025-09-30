@@ -1,5 +1,5 @@
 # Tachyon Engine
-A scrolling pinball game in C++.
+A randomized pinball game in C++.
 <br>
 <br>
 
