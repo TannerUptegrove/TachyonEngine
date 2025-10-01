@@ -15,10 +15,3 @@ Humanity has unlocked the potential of tachyons, allowing us to go faster than l
 - Radio
 - Item descriptions (unlocks after certain scores are met).
 <br>
-
-### Resources Used:
-- Lospec: Pixel art color palettes.
-  - Berry Nedula
-  - Galaxy Flame
-
-- Libresprite: Pixel art environment.
